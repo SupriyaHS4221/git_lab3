@@ -1,2 +1,3 @@
 hi this is stash file
  this is sec line 
+ this is 3rd line 
